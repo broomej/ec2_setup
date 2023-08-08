@@ -1,8 +1,5 @@
 #! /usr/bin/env bash
 
-# run with:
-# sudo ./install_plink1.90.sh /home/ec2-user plink_linux_x86_64_20230116.zip
-
 user_home=$1
 plink_version=$2
 
